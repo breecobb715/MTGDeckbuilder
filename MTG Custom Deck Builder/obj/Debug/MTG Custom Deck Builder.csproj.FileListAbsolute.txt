@@ -1,0 +1,11 @@
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\bin\Debug\MTG Custom Deck Builder.exe.config
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\bin\Debug\MTG Custom Deck Builder.exe
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\bin\Debug\MTG Custom Deck Builder.pdb
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\obj\Debug\MTG Custom Deck Builder.csprojAssemblyReference.cache
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\obj\Debug\MTG_Custom_Deck_Builder.CardCreator.resources
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\obj\Debug\MTG_Custom_Deck_Builder.Properties.Resources.resources
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\obj\Debug\MTG Custom Deck Builder.csproj.GenerateResource.cache
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\obj\Debug\MTG Custom Deck Builder.csproj.CoreCompileInputs.cache
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\obj\Debug\MTG Custom Deck Builder.exe
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\obj\Debug\MTG Custom Deck Builder.pdb
+C:\Users\breec\source\repos\MTG Custom Deck Builder\MTG Custom Deck Builder\obj\Debug\MTG_Custom_Deck_Builder.Form1.resources
